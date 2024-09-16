@@ -1,1 +1,2 @@
 # regression-from-scratch
+This project demonstrates the implementation of Sinusoidal Regression from scratch using Python. The goal of this notebook is to show how sinusoidal regression can be used to model periodic data by fitting a sine wave to the data points. The project covers the mathematical foundations and provides a step-by-step guide to building the regression model without relying on machine learning libraries.
