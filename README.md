@@ -1,6 +1,6 @@
 # Regression-Models
 
-Welcome to the **Regression Models Repository**! This repository serves as a comprehensive resource for various regression models, covering multiple types and techniques for data analysis and machine learning.
+This repository serves as a comprehensive resource for various regression models, covering multiple types and techniques for data analysis and machine learning.
 
 ## 📚 Overview
 
